@@ -1,0 +1,34 @@
+{
+    "sessions": {
+        "1": {
+            "Assistant ID": null,
+            "Thread ID": null,
+            "User Name Input": "aa",
+            "File IDs": []
+        },
+        "2": {
+            "Assistant ID": null,
+            "Thread ID": null,
+            "User Name Input": "n",
+            "File IDs": []
+        },
+        "3": {
+            "Assistant ID": "asst_TJgU0eG327TNyNJ08BHs8pKi",
+            "Thread ID": "thread_lDFsiiDGeUnLGi1k3zqScGDO",
+            "User Name Input": "ccc",
+            "File IDs": []
+        },
+        "4": {
+            "Assistant ID": "asst_0IeAxn1jR0ZXPsXT9Nj4LvG2",
+            "Thread ID": "thread_lflKkCMF3oFONQONJferk1Mb",
+            "User Name Input": "Joey",
+            "File IDs": []
+        },
+        "5": {
+            "Assistant ID": "asst_QWpJNrunmLkWLLBSS889Sc1K",
+            "Thread ID": "thread_ucIy64LpG1SLsk0RuCPcthiT",
+            "User Name Input": "joey 2",
+            "File IDs": []
+        }
+    }
+}
